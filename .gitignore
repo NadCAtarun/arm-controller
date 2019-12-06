@@ -1,0 +1,11 @@
+# Unity environment
+Reacher*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm project configuration
+.idea/
+
+# Unity environment logs
+*.log
